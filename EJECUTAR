@@ -1,0 +1,5 @@
+EJECUTAR PROYECTO
+BACKEND
+node server.js
+FRONTEND
+npm run dev
